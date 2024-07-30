@@ -8,7 +8,6 @@ module.exports = function(income, tax, sss, pagIbig, philHealth) {
     var pagIbig = 300;
     var philHealth = 400;
 
-
     this.income = income;
     this.tax = tax;
     this.sss = sss;
